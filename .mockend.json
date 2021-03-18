@@ -13,5 +13,8 @@
   "Todo": {
     "title": "string",
     "body": "string"
+  },
+  "Country": {
+    "name": "string"
   }
 }
